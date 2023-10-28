@@ -1,4 +1,4 @@
-import telebot
+'''import telebot
 from telebot import types
 
 # Замените '%ваш токен%' на ваш токен, который вы получили от BotFather
@@ -44,3 +44,4 @@ def get_age(message):
 
 
 bot.polling(none_stop=True)
+'''
